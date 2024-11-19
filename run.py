@@ -1,9 +1,10 @@
-import sys
 import argparse
-from PIL import Image
-import random
 import os
+import random
+import sys
 from datetime import datetime
+
+from PIL import Image
 
 
 def generate_random_color_image(width, height, output_dir, color=None):
