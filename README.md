@@ -134,4 +134,4 @@ This tool is open-source and available under the MIT License.
 
 ## Author
 
-Created by [Your Name]. Feel free to contribute or suggest improvements!
+Created by Nayuta. Feel free to contribute or suggest improvements!
